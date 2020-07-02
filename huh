@@ -1,0 +1,7 @@
+echo "# Projekt-Isekai" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Kimpatzu/Projekt-Isekai.git
+git push -u origin master
+                
